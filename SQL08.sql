@@ -1,0 +1,1 @@
+SELECT SUM(quantity*unit_price) FROM order_details WHERE order_id=31

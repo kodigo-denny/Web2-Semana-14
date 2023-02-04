@@ -1,0 +1,1 @@
+SELECT id, nombres, apellidos FROM alumnos WHERE nombres LIKE "d%" ORDER BY id

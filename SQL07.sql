@@ -1,0 +1,1 @@
+SELECT AVG(list_price), MIN(list_price), MAX(list_price) FROM products
